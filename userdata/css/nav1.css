@@ -1,0 +1,41 @@
+            /* -----------------------navbar-----------------------------------*/
+            
+            #brand {
+                left: 50%;
+                font-size: 35px;
+            }
+            
+            #box {
+                visibility: hidden;
+                position: absolute;
+                background: #343a40!important;
+                border: 1px solid white;
+                z-index: 1;
+            }
+            
+            #box a {
+                color: rgba(255, 255, 255, .5);
+            }
+            
+            #box a:hover {
+                color: white;
+            }
+            /* -----------------------uper slide container-----------------------------------*/
+            /* #uperbody {
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+}*/
+            
+            #side {
+                padding-right: 0px;
+                padding-left: 0px;
+                z-index: 0;
+            }
+            
+            .carousel-item {
+                height: 600px;
+                width: 100%;
+            }
+            /* -----------------------bottom item container-----------------------------------*/
+            /* --------------------------------------------------------------------*/
